@@ -1,0 +1,1 @@
+This is the first script I created for an Arduino.  Over the summer, I was working on a project with my friends to make an eco-friendly fridge.  In order to simulate cooling in a fridge, we used fans.  To detect if there was food inside of the fridge, we used Ultra Sonic sensors.  If there was food inside of the fridge, the fans would turn on, and the food would cool down.
