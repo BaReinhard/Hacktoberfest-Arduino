@@ -1,0 +1,2 @@
+The program does a count down from 3:00 minutes and displays in 4-bit 7 segment lcd display (TM1637) using arduino uno.
+The connections to arduino uno to the TM1637 module is shown in the connection diagram.
