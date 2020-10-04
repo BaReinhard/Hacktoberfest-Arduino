@@ -14,4 +14,4 @@ Description of your Project:
 
 Benefits of this project (what you will learn):
 1. This project would help you learn and understand more about reading Digital and Analog values from sensors and writing HIGH/LOW values to relays.
-2. It will also give you insight into the next level of your Arduino Experience and introduce you to the Cloud framework.
+2. It will also give you insight into the next level of your Arduino Experience.
