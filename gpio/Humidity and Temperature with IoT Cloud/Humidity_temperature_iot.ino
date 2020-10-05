@@ -2,8 +2,6 @@
 #include <SimpleDHT.h>
 
 #define DHTPIN 2
-#define relaypin 3
-#define relaytimerpin 4
 
 
 SimpleDHT22 dht22(DHTPIN);
