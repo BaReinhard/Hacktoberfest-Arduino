@@ -1,4 +1,7 @@
 # Hacktoberfest-Arduino
+
+No longer active
+
 A repo to contain sketches and projects regarding any arduino board
 ## Contributing
 * Here we are looking for pretty much anything fun or useful, or just plain out cool. (this can be anything you find exciting, writing to registers to manipulated GPIO, or sending tweets via cmdline)
